@@ -1,15 +1,11 @@
 {
   "name": "DOGAD",
   "symbol": "DOGAD",
-  "description": "DOGAD is a meme coin on Monad chain featuring a friendly yellow dog mascot.",
+  "description": "DOGAD adalah koin meme di rantai Monad yang menampilkan maskot anjing kuning yang ramah.",
   "decimals": 18,
   "chainId": 10143,
   "contract": "0x06DDd0573198cfB9D7757d92597050d43391a128",
-  "logoURI": "/mnt/data/2EB67353-0BE4-4F61-8C34-20E50F6D4B6B.png",
-  "tags": [
-    "meme",
-    "dog",
-    "monad"
-  ],
+  "logoURI": "https://raw.githubusercontent.com/khoirunanam98/dogad-token/main/A9B3F287-55B8-4CC3-A5D3-6E1A6FD4A087.png",
+  "tags": ["meme", "dog", "monad"],
   "totalSupply": "100000000000"
 }
