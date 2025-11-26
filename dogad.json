@@ -1,0 +1,39 @@
+{
+  "name": "DOGAD",
+  "symbol": "DOGAD",
+  "decimals": 18,
+  "description": "DOGAD is a fun meme coin built on Monad Chain for the Dogbros community — simple, entertaining, and ready for the next alt season hype.",
+  "external_url": "https://x.com/dogad_?s=21",
+  "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/token-dogad/utama/IMG_0254.png",
+  "website": "",
+  "status": "active",
+
+  "links": {
+    "twitter": "https://x.com/dogad_?s=21",
+    "tiktok": "https://www.tiktok.com/@dogad_?_r=1&_t=ZS-91icRZ45JgO",
+    "telegram": "",
+    "github": "https://github.com/YOUR_GITHUB_USERNAME/token-dogad"
+  },
+
+  "contract": {
+    "address": "0x06DDd0573198cfB9D7757d92597050d43391a128",
+    "network": "Monad",
+    "chainId": 4444
+  },
+
+  "tokenomics": {
+    "totalSupply": "100000000000",
+    "tax": "0%",
+    "launch": "Fair Launch",
+    "liquidity": "Locked"
+  },
+
+  "tags": [
+    "meme",
+    "dog",
+    "monad",
+    "community",
+    "dogbros",
+    "crypto"
+  ]
+}
