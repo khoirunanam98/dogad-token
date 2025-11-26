@@ -1,39 +1,39 @@
 {
   "name": "DOGAD",
   "symbol": "DOGAD",
-  "decimals": 18,
-  "description": "DOGAD is a fun meme coin built on Monad Chain for the Dogbros community — simple, entertaining, and ready for the next alt season hype.",
-  "external_url": "https://x.com/dogad_?s=21",
-  "image": "https://raw.githubusercontent.com/khoirunanam98/token-dogad/utama/IMG_0254.png",
-  "website": "",
-  "status": "active",
-
-  "links": {
+  "description": "DOGAD is a fun meme coin built on the Monad Chain, powered by the Dogbros community.",
+  
+  "website": "https://x.com/dogad_?s=21",
+  
+  "socials": {
     "twitter": "https://x.com/dogad_?s=21",
     "tiktok": "https://www.tiktok.com/@dogad_?_r=1&_t=ZS-91icRZ45JgO",
     "telegram": "",
-    "github": "https://github.com/YOUR_GITHUB_USERNAME/token-dogad"
+    "github": "https://github.com/khoirunanam98/tokenlist"
   },
 
-  "contract": {
-    "address": "0x06DDd0573198cfB9D7757d92597050d43391a128",
-    "network": "Monad",
-    "chainId": 4444
+  "media": {
+    "logo": "https://raw.githubusercontent.com/khoirunanam98/tokenlist/main/logo.png",
+    "banner": ""
   },
 
-  "tokenomics": {
-    "totalSupply": "100000000000",
-    "tax": "0%",
-    "launch": "Fair Launch",
-    "liquidity": "Locked"
+  "token": {
+    "chain": "Monad",
+    "contract_address": "0x06DDd0573198cfB9D7757d92597050d43391a128",
+    "decimals": 18,
+    "supply": "100000000000",
+    "type": "ERC20",
+    "verified": true
   },
 
-  "tags": [
-    "meme",
-    "dog",
-    "monad",
-    "community",
-    "dogbros",
-    "crypto"
-  ]
+  "community": {
+    "status": "active",
+    "purpose": "Building a strong meme-driven community on the Monad network."
+  },
+
+  "links": {
+    "buy": "",
+    "chart": "",
+    "source_code": "https://github.com/khoirunanam98/tokenlist"
+  }
 }
