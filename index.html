@@ -26,7 +26,6 @@ body {
   position:relative;
   overflow-x:hidden;
 }
-/* Glowing Particle Background */
 body::before {
   content:"";
   position:absolute;
@@ -126,6 +125,30 @@ ul { margin:10px 0 20px; padding-left:18px; }
   border-style:dashed;
 }
 
+.contract-box {
+  background:#000;
+  border:1px solid rgba(255,204,68,0.25);
+  padding:12px;
+  border-radius:10px;
+  margin-top:10px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.contract-box code {
+  color:var(--gold);
+  font-size:14px;
+  word-break:break-all;
+}
+.copy-btn {
+  background:var(--gold);
+  border:none;
+  padding:6px 12px;
+  border-radius:8px;
+  cursor:pointer;
+  font-weight:900;
+}
+
 footer{
   text-align:center;
   opacity:0.75;
@@ -160,10 +183,16 @@ footer{
   <div class="row"><div class="k">Symbol</div><div class="v">DOGAD</div></div>
   <div class="row"><div class="k">Chain</div><div class="v">Monad</div></div>
   <div class="row"><div class="k">Type</div><div class="v">Fair Launch</div></div>
-  <div class="row"><div class="k">Total Supply</div><div class="v">1,000,000,000,000 (1T)</div></div>
+  <div class="row"><div class="k">Total Supply</div><div class="v">100,000,000,000 (100B)</div></div>
   <div class="row"><div class="k">Tax</div><div class="v">0% Buy / 0% Sell</div></div>
   <div class="row"><div class="k">Liquidity</div><div class="v">Locked 🔒</div></div>
-  <div class="row"><div class="k">Contract</div><div class="v">Coming Soon</div></div>
+  
+  <div class="row"><div class="k">Contract</div><div class="v">Live ✅</div></div>
+
+  <div class="contract-box">
+    <code id="ca">0x06DDd0573198cfB9D7757d92597050d43391a128</code>
+    <button class="copy-btn" onclick="navigator.clipboard.writeText('0x06DDd0573198cfB9D7757d92597050d43391a128')">COPY</button>
+  </div>
 </section>
 
 <section class="card comingsoon">
@@ -181,5 +210,6 @@ footer{
 </footer>
 
 </div>
+
 </body>
 </html>
