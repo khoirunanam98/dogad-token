@@ -1,10 +1,10 @@
 {
   "name": "DOGAD",
   "symbol": "DOGAD",
-  "description": "DOGAD is a fun meme coin built on the Monad Chain, powered by the Dogbros community.",
+  "description": "DOGAD is a fun meme coin built on Monad Chain and powered by the Dogbros community.",
   
   "website": "https://x.com/dogad_?s=21",
-  
+
   "socials": {
     "twitter": "https://x.com/dogad_?s=21",
     "tiktok": "https://www.tiktok.com/@dogad_?_r=1&_t=ZS-91icRZ45JgO",
@@ -28,7 +28,7 @@
 
   "community": {
     "status": "active",
-    "purpose": "Building a strong meme-driven community on the Monad network."
+    "purpose": "Building a meme-driven Web3 community on Monad Chain."
   },
 
   "links": {
